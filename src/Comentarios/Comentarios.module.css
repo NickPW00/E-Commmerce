@@ -1,0 +1,21 @@
+.boxComentarios{
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+
+.comentarios{
+  padding:1vw;
+  background-color: #ddd;
+}
+
+.comentarios h2{
+  margin: 0;
+  font-size: 1.7rem;
+}
+
+.mediaComentarios{
+  margin: 2vh 0;
+  text-align: center;
+  font-size: clamp(1.2rem, 2.3vw, 1.4rem);
+}

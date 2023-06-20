@@ -1,0 +1,41 @@
+.infoLoja{
+  background-color: #ddd;
+  padding: 2vh 0;
+  margin-bottom: 2vh;
+  height: max-content;
+}
+
+.infoPrimarioLoja img{
+  width: clamp(30px, 5rem, 50px);
+  margin-right: 5px;
+}
+
+.infoLoja h2{
+  margin: 0;
+  font-size: 1.7rem;
+  padding: 0 0.6rem;
+}
+
+.infoPrimarioLoja{
+  display: flex;
+  align-items: center;
+}
+
+.infoPrimarioLoja1{
+  display: flex;
+  justify-content: space-evenly;
+  width: 25%
+}
+
+.infoPrimarioLoja h3{
+  font-size: clamp(1.2rem, 5vw, 1.4rem);
+}
+
+.infoPrimarioLoja p{
+  margin: 0.7vh;
+  font-size: clamp(0.7rem, 3vw, 1rem)
+}
+
+.infosSecondariasLoja{
+  display: flex;
+}

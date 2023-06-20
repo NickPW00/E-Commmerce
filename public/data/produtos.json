@@ -1,0 +1,74 @@
+[
+    {
+        "key": "produto1",
+        "img": "../img/produtos/smartphone.jpg",
+        "nome": "Smartphone XYZ",
+        "valor": 1000
+    },
+    {
+        "key": "produto2",
+        "img": "../img/produtos/notebook.jpeg",
+        "nome": "Notebook ABC",
+        "valor": 1500
+    },
+    {
+        "key": "produto3",
+        "img": "../img/produtos/tv42.jpeg",
+        "nome": "TV LED 42 polegadas",
+        "valor": 1200
+    },
+    {
+        "key": "produto4",
+        "img": "../img/produtos/fone.jpeg",
+        "nome": "Fones de ouvido Bluetooth",
+        "valor": 100
+    },
+    {
+        "key": "produto5",
+        "img": "../img/produtos/camera.jpeg",
+        "nome": "Câmera DSLR",
+        "valor": 2000
+    },
+    {
+        "key": "produto6",
+        "img": "../img/produtos/ps5.jpeg",
+        "nome": "Console de videogame XYZ",
+        "valor": 300
+    },
+    {
+        "key": "produto7",
+        "img": "../img/produtos/tablet.jpeg",
+        "nome": "Tablet ABC",
+        "valor": 800
+    },
+    {
+        "key": "produto8",
+        "img": "../img/produtos/monitor.jpeg",
+        "nome": "Monitor de computador",
+        "valor": 300
+    },
+    {
+        "key": "produto9",
+        "img": "../img/produtos/impressora.jpg",
+        "nome": "Impressora multifuncional",
+        "valor": 150
+    },
+    {
+        "key": "produto10",
+        "img": "../img/produtos/fone.jpeg",
+        "nome": "Fone de ouvido sem fio XYZ",
+        "valor": 80
+    },
+    {
+        "key": "produto11",
+        "img": "../img/produtos/smartwatch.jpeg",
+        "nome": "Smartwatch ABC",
+        "valor": 250
+    },
+    {
+        "key": "produto12",
+        "img": "../img/produtos/teclado.jpeg",
+        "nome": "Teclado mecânico para jogos",
+        "valor": 120
+    }
+]

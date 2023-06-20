@@ -1,0 +1,32 @@
+[
+  {
+    "usuario": "João",
+    "duvida": "Como posso alterar minha senha?",
+    "resposta": "Para alterar sua senha, faça o login na sua conta e vá para as configurações de segurança. Lá, você encontrará a opção para alterar sua senha.",
+    "imagem_usuario": "../img/perfil/perfil1.jpeg" 
+  },
+  {
+    "usuario": "Maria",
+    "duvida": "Qual é o horário de funcionamento da loja?",
+    "resposta": "A loja abre de segunda a sexta, das 9h às 18h. Aos sábados, o horário é das 10h às 15h. Estamos fechados aos domingos.",
+    "imagem_usuario": "../img/perfil/perfil2.png" 
+  },
+  {
+    "usuario": "Pedro",
+    "duvida": "Existe alguma taxa adicional para envio internacional?",
+    "resposta": "Sim, para envios internacionais há uma taxa de envio adicional. O valor exato depende do destino e do peso do pacote. Recomendamos entrar em contato com nosso serviço de atendimento ao cliente para obter mais informações.",
+    "imagem_usuario": "../img/perfil/perfil3.jpeg" 
+  },
+  {
+    "usuario": "Ana",
+    "duvida": "Como posso cancelar minha assinatura?",
+    "resposta": "Para cancelar sua assinatura, acesse sua conta e vá para as configurações de assinatura. Lá, você encontrará a opção para cancelar. Se tiver algum problema, entre em contato conosco e teremos prazer em ajudar.",
+    "imagem_usuario": "../img/perfil/perfil4.jpeg" 
+  },
+  {
+    "usuario": "Carlos",
+    "duvida": "Vocês oferecem suporte técnico?",
+    "resposta": "Sim, oferecemos suporte técnico para nossos clientes. Você pode entrar em contato conosco por telefone ou por e-mail, e nossa equipe de suporte terá prazer em ajudar com qualquer problema ou dúvida técnica que você tenha.",
+    "imagem_usuario": "../img/perfil/perfil1.jpeg" 
+  }
+]

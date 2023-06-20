@@ -1,0 +1,31 @@
+.infoPrincipalSubCard{
+  font-size: clamp(1.2rem, 5vw, 1.4rem);
+}
+
+.infoLojaSubCard{
+  border-inline: black solid 1px;
+  width: 33%;
+  text-align: center;
+  padding: 2vw;
+}
+
+.infoSubCard{
+  font-size: clamp(0.7rem, 3vw, 1rem)
+}
+
+.infoPrimarioLoja1{
+  display: flex;
+  justify-content: space-evenly;
+  width: 25%
+}
+
+@media (max-width: 500px){
+  .infoPrimarioLoja{
+    justify-content: space-around
+  }
+}
+@media (max-width: 500px){
+  .infoPrimarioLoja{
+    justify-content: space-around
+  }
+}

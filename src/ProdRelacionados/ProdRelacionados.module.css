@@ -1,0 +1,10 @@
+.Pai{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap
+}
+
+.ProdRel h2{
+  font-size: 1.7rem;
+  margin: 0.5rem;
+}

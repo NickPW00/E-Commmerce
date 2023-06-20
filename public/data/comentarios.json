@@ -1,0 +1,133 @@
+
+[
+  {
+    "nome": "Perfil 1",
+    "img": "../img/perfil/perfil1.jpeg",
+    "avaliacoes": [
+      {
+        "nota": 5,
+        "comentario": "Excelente qualidade, recomendo!"
+      },
+      {
+        "nota": 4,
+        "comentario": "Ótimo produto, superou minhas expectativas!"
+      },
+      {
+        "nota": 3,
+        "comentario": "Produto decente, mas poderia ser melhor."
+      },
+      {
+        "nota": 2,
+        "comentario": "Não gostei muito, não atendeu minhas necessidades."
+      },
+      {
+        "nota": 1,
+        "comentario": "Péssimo produto, não recomendo."
+      }
+    ]
+  },
+  {
+    "nome": "Perfil 2",
+    "img": "../img/perfil/perfil2.png",
+    "avaliacoes": [
+      {
+        "nota": 5,
+        "comentario": "Maravilhoso, superou todas as expectativas!"
+      },
+      {
+        "nota": 4,
+        "comentario": "Muito bom, estou satisfeito com a compra."
+      },
+      {
+        "nota": 3,
+        "comentario": "Produto incrível, vale cada centavo!"
+      },
+      {
+        "nota": 2,
+        "comentario": "Regular, não é bom nem ruim."
+      },
+      {
+        "nota": 1,
+        "comentario": "Decepcionante, esperava mais qualidade."
+      }
+    ]
+  },
+  {
+    "nome": "Perfil 3",
+    "img": "../img/perfil/perfil3.jpeg",
+    "avaliacoes": [
+      {
+        "nota": 5,
+        "comentario": "Excelente qualidade, recomendo!"
+      },
+      {
+        "nota": 4,
+        "comentario": "Ótimo produto, superou minhas expectativas!"
+      },
+      {
+        "nota": 3,
+        "comentario": "Produto decente, mas poderia ser melhor."
+      },
+      {
+        "nota": 2,
+        "comentario": "Não gostei muito, não atendeu minhas necessidades."
+      },
+      {
+        "nota": 1,
+        "comentario": "Péssimo produto, não recomendo."
+      }
+    ]
+  },
+  {
+    "nome": "Perfil 4",
+    "img": "../img/perfil/perfil4.jpeg",
+    "avaliacoes": [
+      {
+        "nota": 5,
+        "comentario": "Maravilhoso, superou todas as expectativas!"
+      },
+      {
+        "nota": 4,
+        "comentario": "Muito bom, estou satisfeito com a compra."
+      },
+      {
+        "nota": 3,
+        "comentario": "Produto incrível, vale cada centavo!"
+      },
+      {
+        "nota": 2,
+        "comentario": "Regular, não é bom nem ruim."
+      },
+      {
+        "nota": 1,
+        "comentario": "Decepcionante, esperava mais qualidade."
+      }
+    ]
+  },
+  {
+    "nome": "Perfil 5",
+    "img": "../img/perfil/perfil4.jpeg",
+    "avaliacoes": [
+      {
+        "nota": 5,
+        "comentario": "Excelente qualidade, recomendo!"
+      },
+      {
+        "nota": 4,
+        "comentario": "Bom custo-benefício, atendeu minhas expectativas."
+      },
+      {
+        "nota": 3,
+        "comentario": "Mais ou menos, poderia ser melhor."
+      },
+      {
+        "nota": 2,
+        "comentario": "Não recomendo, baixa qualidade."
+      },
+      {
+        "nota": 1,
+        "comentario": "Totalmente insatisfeito, péssimo produto."
+      }
+    ]
+  }
+]

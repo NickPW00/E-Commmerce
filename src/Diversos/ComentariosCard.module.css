@@ -1,0 +1,23 @@
+.comentariosCard{
+  width: 90vw;
+}
+
+.infosPerfil{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 12rem
+}
+
+.infosComent{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.perfilComent{
+  width:clamp(30px,4vw,40px);
+  height:clamp(30px,4vw,40px);
+  border-radius: 100%;
+  border: solid 1px black;
+}

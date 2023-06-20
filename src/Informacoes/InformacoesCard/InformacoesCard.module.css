@@ -1,0 +1,33 @@
+.cardInformacoes{
+  background-color: #DDD;
+  margin: 2vh 0;
+}
+
+.descCard, .infosCard{
+  padding: 0.6rem 5vw;
+}
+
+.descCard{
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid black;
+}
+
+.descCard:hover{
+  background-color: #c8c8c8;
+}
+
+.descCard h2{
+  margin: 0;
+  font-size: 1.7rem;
+}
+
+.descCard img{
+  width: clamp(1rem, 3vw, 1.4rem);
+  transition: 300ms;
+}
+
+.infosCard{
+  font-size: 1.1rem;
+  transition: max-height 0.3s;
+}

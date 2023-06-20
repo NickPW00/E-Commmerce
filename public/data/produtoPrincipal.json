@@ -1,0 +1,20 @@
+[
+  {
+    "codigo_produto": "TV8K Sony HRDTFE00139",
+    "valor_anterior": 5000.0,
+    "valor_atual": 4500.0,
+    "imagem": "../img/produtoPrincipal/tv8k1.jpg"
+  },
+  {
+    "codigo_produto": "TV8K Sony HRDTFE00240",
+    "valor_anterior": 6000.0,
+    "valor_atual": 5500.0,
+    "imagem": "../img/produtoPrincipal/tv8k2.jpg"
+  },
+  {
+    "codigo_produto": "TV8K Sony HRDTFE00341",
+    "valor_anterior": 7000.0,
+    "valor_atual": 6500.0,
+    "imagem": "../img/produtoPrincipal/tv8k3.jpg"
+  }
+]
