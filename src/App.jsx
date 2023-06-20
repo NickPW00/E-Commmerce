@@ -6,12 +6,9 @@ import Comentarios from './Comentarios/Comentarios'
 import ProdutoPrincipal from './ProdutoPrincipal/ProdutoPrincipal';
 import InfoLoja from './InfoLoja/InfoLoja'
 
-
 const itens = ['Recomendados', 'Eletronicos', 'Eletrodomesticos', 'Smartphones', 'Televisões', 'Diversos']
  
-
 function Header() {
-  const menuHeader = document.querySelector('.menuHeader');
   const itemHeader = document.querySelectorAll('.itemHeader');
   
   function toggleColapsar() {
