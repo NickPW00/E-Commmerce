@@ -20,8 +20,8 @@ function Header() {
       <ul className="itensMenuHeader">
         <li className="logoHeader"><img src='./src/logo2.svg' /></li>
         <li className="inputHeader"><input type='text' /></li>
-        <li className="menuHeader" onClick={toggleColapsar}><img src='./src/menu.svg' /></li>
-        {itens.map(item => <li className="itemHeader">{item}</li>)}
+        <li className="menuHeader"><img src='./src/menu.svg' onClick={toggleColapsar}/></li>
+        {itens.map((item, index) => <li className="itemHeader" key={index}>{item}</li>)}
       </ul>
     </header>
   )

@@ -53,7 +53,7 @@
   justify-content: space-between
 }
 
-@media (max-width: 660px){
+@media (max-width: 754px){
   .versoesImgProduto button{
     width: 20vw;
     height: clamp(20px, 5vw, 30px);
@@ -78,7 +78,7 @@
   }
 }  
 
-@media (min-width: 660px){
+@media (min-width: 754px){
   .produtoPrincipal{
     display: flex
   }
