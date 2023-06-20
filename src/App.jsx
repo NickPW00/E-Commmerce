@@ -6,15 +6,7 @@ import Comentarios from './Comentarios/Comentarios'
 import ProdutoPrincipal from './ProdutoPrincipal/ProdutoPrincipal';
 import InfoLoja from './InfoLoja/InfoLoja'
 
-// 1. Fazer o box do Detalhes, Ficha tecnica, Dúvidas
-// 2. Fazer card de produtos relacionados e sua area
-// 3. Fazer Menu principal, por links para serem simulados, como links para produtos, ....
-// 4. Fazer o json da ficha tecnica
-// 4. Fazer Parte de venda do produto
-// 5. Fazer comentários em Avaliação do Cliente
-// 6. Fazer o tópico 6 dentro do Duvidas frequentes
 
-// Detalhes finais: Remodelar a distribuição para mobile de produtos relacionados.
 const itens = ['Recomendados', 'Eletronicos', 'Eletrodomesticos', 'Smartphones', 'Televisões', 'Diversos']
  
 
